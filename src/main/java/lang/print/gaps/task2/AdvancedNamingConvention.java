@@ -8,7 +8,7 @@ public class AdvancedNamingConvention {
 
     private int phoneNumber;
 
-    void CallToFriend() {
+    void callToFriend() {
         //some code
     }
 
